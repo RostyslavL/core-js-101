@@ -1,0 +1,170 @@
+[33mcommit c53e6233b63e79fdbb1f91ddfea426177ad5ee49[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Sat Mar 13 20:48:17 2021 +0100
+
+    fix: completed 3,8,9 number tasks : getAverage, parseNumberFromString,getParallelipidedDiagonal
+
+[33mcommit 78c5d8e27094613ca7b86b5c9c4e85c6c809f539[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Fri Mar 12 17:37:47 2021 +0100
+
+    fix: completed 8 string task removeFirstOccurrences
+
+[33mcommit 9a99d89a2a52d8a1bc3a212de753730022f6ddce[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Fri Mar 12 17:04:01 2021 +0100
+
+    fix: completed 14 string task isString
+
+[33mcommit 698afcda6a13325418c5387a7ef2797f72038c53[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Fri Mar 12 16:35:01 2021 +0100
+
+    fix: completed 10 string task convertToUpperCase
+
+[33mcommit 66a19cf2001db3e3e5458d95004c6ffcf35cc62f[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Fri Mar 12 16:31:38 2021 +0100
+
+    fix: completed 9 string task unbracketTag
+
+[33mcommit 290da463f30eee1dc82b28e3ebfdae7884af9763[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Fri Mar 12 16:23:54 2021 +0100
+
+    fix: completed 4,6,7 string tasks (getFirstChar,removeLeadingAndTrailingWhitespaces,repeatString)
+
+[33mcommit 940b05a54227ad3917ace006afdc8150c4bda0ca[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Fri Mar 12 16:06:53 2021 +0100
+
+    fix: completed  2,3 string task
+
+[33mcommit 014714aab2869d6c623c40c90223baaae06ed365[m
+Author: Rostyslav Lohvynov <rostyslav_lohvynov@sevenet.pl>
+Date:   Fri Mar 12 15:58:32 2021 +0100
+
+    init: completed first string test task
+
+[33mcommit d989a7d8960b4aff3c73f162b715bbcf95a04933[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Wed Jul 1 10:36:40 2020 +0300
+
+    Update task description in 05-regex-tasks.js
+
+[33mcommit acfcbfeaa9328e03cfa89de7c6b2204a562ee060[m
+Merge: 8f3cfb5 d20610d
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Mon May 11 20:52:17 2020 +0300
+
+    Merge pull request #15 from cardamo/swap-assert-equal-arguments
+    
+    swap assert.equal arguments (expected,actual->actual,expected)…
+
+[33mcommit d20610d1286450f3034ad947bd08db91df885a92[m
+Author: Artem Sinicyn <sinicyn.artem@gmail.com>
+Date:   Mon May 11 20:22:06 2020 +0300
+
+    swap assert.equal and deepEqual arguments (expected,actual->actual,expected) in order to generate proper messages
+
+[33mcommit 8f3cfb523a7ee681f6c062ac12ff2155d8070705[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Thu Apr 23 11:55:57 2020 +0300
+
+    Update README.md
+
+[33mcommit 9c13d159d1d375a9b73cb7f32cc64fecf483a1e9[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Thu Apr 23 09:37:22 2020 +0300
+
+    Add FAQ to README.md
+
+[33mcommit 191bc1f8f9df7df9f0e21046e9716b3ec58d8721[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Tue Mar 17 19:01:07 2020 +0300
+
+    fix: typos and descriptions
+
+[33mcommit 73ceb1b78d655ea1c720fde3b5de34a7e893fbe3[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Thu Nov 21 17:45:45 2019 +0300
+
+    🤑 You can earn more many when you are an expert!
+
+[33mcommit bad473748835d946e580d1475a54ebd264bc6d3f[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Thu Nov 21 17:45:28 2019 +0300
+
+    🙁 Make the tasks step by step. From the easiest to the difficult ones.
+
+[33mcommit b332b1228fcda6d0152eb747b999b79e2d990bd3[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Thu Nov 21 17:44:59 2019 +0300
+
+    😢 Please don't cry. Pull yourself together.
+
+[33mcommit 64661feb6e0264d7e72cafd130c095e92db95f26[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 13:32:20 2019 +0300
+
+    😭 Aaaaa! I don't understand JS!
+
+[33mcommit b66b9775110ea56c5f30a3d414688597a52181ac[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 13:00:46 2019 +0300
+
+    🤑 You can earn more many when you are an expert!
+
+[33mcommit f2dd8f4b08f6949639c9079e3b1b1695fdda7abd[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 13:00:34 2019 +0300
+
+    😎 You are a professional, you understand what you do.
+
+[33mcommit 2ee12617bde4ec79a743ccab7c2a8dd307ac3eba[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 13:00:15 2019 +0300
+
+    🤣 You are laughing, because the tasks are so easy for you.
+
+[33mcommit 929d638b25db4f12b793237b4e29b059491347d1[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 13:00:00 2019 +0300
+
+    😂 Do you think the tasks are not so difficult now?
+
+[33mcommit 8e5582da910ca733cccf27c93000383a1e43418b[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 12:58:54 2019 +0300
+
+    😃 Do you enjoy solving the tasks?
+
+[33mcommit 9aa1b2caeec894fa0e31fc174208c6df2b812097[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 12:58:42 2019 +0300
+
+    🙂 Now you understand JS a little bit more.
+
+[33mcommit fa490eac031e3e527d1f50e87a939ae3c4e6af6f[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 12:58:23 2019 +0300
+
+    😐 Do you feel better?
+
+[33mcommit 52f583224d723eb0006bcffc41712118a1f30114[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 12:58:10 2019 +0300
+
+    🙁 Make the tasks step by step. From the easiest to the difficult ones.
+
+[33mcommit 8d277309e5a5e70189d1008321301ab592affd28[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 12:57:54 2019 +0300
+
+    😢 Please don't cry. Pull yourself together.
+
+[33mcommit 34b51b82f67fd3eb3dd8339d4fef3ca771210028[m
+Author: Dzmitry Tsebruk <mikhama@tut.by>
+Date:   Sat Nov 16 12:56:36 2019 +0300
+
+    Initial commit

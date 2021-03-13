@@ -204,6 +204,7 @@ function isPrime(/* n */) {
   throw new Error('Not implemented');
 }
 
+
 /**
  * Tries to convert value to number and returns it if conversion was successfull;
  * otherwise returns default value passed as a second argument.
