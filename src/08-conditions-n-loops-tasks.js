@@ -27,11 +27,12 @@
  *  21 => 'Fizz'
  *
  */
-function getFizzBuzz(/* num */) {
-  throw new Error('Not implemented');
+function getFizzBuzz(num) {
+  if (num % 15 === 0) return 'FizzBuzz';
+  if (num % 5 === 0) return 'Buzz';
+  if (num % 3 === 0) return 'Fizz';
+  return num;
 }
-
-
 /**
  * Returns the factorial of the specified integer n.
  *
@@ -62,6 +63,9 @@ function getFactorial(/* n */) {
  */
 function getSumBetweenNumbers(/* n1, n2 */) {
   throw new Error('Not implemented');
+  // for(let i = 1; i <= n2; i++){
+  //   return n1 + n2
+  // }
 }
 
 
