@@ -276,9 +276,23 @@ function reverseInteger(num) {
  *   5436468789016589 => false
  *   4916123456789012 => false
  */
-function isCreditCardNumber(/* ccn */) {
-  throw new Error('Not implemented');
+function isCreditCardNumber(ccn) {
+  // throw new Error('Not implemented');
+  let checksum = 0;
+  const cnnStr = ccn.toString();
+  for (let i = 0; i < cnnStr.length; i += 1) {
+    let singleNumber = parseInt(cnnStr[i], 10);
+    if ((cnnStr.length - i) % 2 === 0) {
+      singleNumber *= 2;
+      if (singleNumber > 9) {
+        singleNumber -= 9;
+      }
+    }
+    checksum += singleNumber;
+  }
+  return checksum % 10 === 0;
 }
+
 
 /**
  * Returns the digital root of integer:

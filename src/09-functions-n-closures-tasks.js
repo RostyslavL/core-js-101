@@ -64,9 +64,10 @@ function getPowerFunction(exponent) {
  *   getPolynom(8)     => y = 8
  *   getPolynom()      => null
  */
-function getPolynom() {
-  throw new Error('Not implemented');
-  // a_{n}x^{n}+a_{n-1}x^{n-1}+\dotsb +a_{2}x^{2}+a_{1}x+a_{0},
+function getPolynom(...nums) {
+  // throw new Error('Not implemented');
+  const coefs = [...nums].reverse();
+  return (x) => coefs.reduce((acc, coef, pow) => acc + coef * (x ** pow));
 }
 
 
